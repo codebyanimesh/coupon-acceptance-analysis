@@ -3,6 +3,8 @@ An exploratory data analysis of the UCI driver coupon dataset. This project inve
 
 ---
 
+[Link to Jupyter notebook](https://github.com/codebyanimesh/coupon-acceptance-analysis/blob/main/prompt.ipynb)
+
 # Will the Customer Accept the Coupon?
 
 ### Project Context
